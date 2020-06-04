@@ -1,7 +1,7 @@
 # CamVid-Image-Segmentation
  Performing Image Segmentation on the CamVid Dataset images
  
- Library used: **Fastai**
+ Library used: **Fastai**(1.0.60)
  
  We haved used **U-net** as our architecture.
  
